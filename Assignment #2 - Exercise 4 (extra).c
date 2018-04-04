@@ -12,7 +12,7 @@ int clean_stdin(){
 int main(void) {
     
     int input;
-     int result = 1;
+    int result = 1;
     char c;
     
     do{
